@@ -1,4 +1,4 @@
-name: container-deploy
+name: container-deploy-test
 on: 
   push: 
     branches: 
