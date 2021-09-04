@@ -3,7 +3,7 @@ import MarketingApp from './components/MarketingApp';
 export default () => {
   return( 
     <>
-    Hi, from container testing
+    Hi, from container
     <MarketingApp/>
     </>
   )
